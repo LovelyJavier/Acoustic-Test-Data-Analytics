@@ -18,7 +18,7 @@ This project analyzes acoustic performance test data to compare noise levels acr
 
 ---
 
-## 3. Business Questions
+## 3. Questions
 
 <div align="left">
   
