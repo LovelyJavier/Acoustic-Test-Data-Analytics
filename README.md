@@ -84,8 +84,6 @@ This project analyzes acoustic performance test data to compare noise levels acr
 
 ## 7. Key Findings
 
-## Key Findings and Conclusions
-
 | Business Question | Dashboard Visual | Conclusion |
 |-------------------|------------------|------------|
 | **Are the acoustic measurements consistent across repeated test cycles?** | <img src="Graph/CV.png" width="700"> | All test configurations exhibited low coefficients of variation (**CV < 1%**), indicating excellent repeatability and consistency of **LpA (dB(A))** measurements across repeated test cycles. These results demonstrate minimal measurement variability, providing a reliable basis for subsequent statistical comparison and acoustic performance evaluation. |
