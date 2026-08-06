@@ -115,7 +115,7 @@ This project analyzes acoustic performance test data to compare noise levels acr
 | **Data Transformation** | Microsoft Excel, LpA (dB(A)) Calculation, Power Query M, Custom Transformations |
 | **Data Integration** | Data Consolidation, Test Configuration Integration |
 | **Data Standardization** | Operating Mode Standardization, Design Type Classification, Material Variant Standardization, Measurement Position Standardization |
-| **Data Modeling** | DAX Calculated Columns, DAX Measures, Data Relationships |
+| **Data Modeling** | DAX Calculated Columns, Data Relationships |
 | **Data Validation** | Source-to-Dashboard Reconciliation, LpA Value Verification, Dashboard Consistency Verification |
 | **Data Analysis** | Acoustic Performance Analysis, Noise Distribution Analysis, Measurement Position Analysis, Compliance Assessment, Statistical Analysis (Minitab) |
 | **Data Visualization** | Power BI Dashboard, Box-and-Whisker Plot, Line Chart, Reference Line, Slicers, Cross-filtering |
